@@ -93,6 +93,7 @@ namespace Hotel_SoftWare
 
         private void btnDichVuPhong_Click(object sender, EventArgs e)
         {
+            openChildForm(new DichVuPhongForm());
             HideMenu();
         }
 
