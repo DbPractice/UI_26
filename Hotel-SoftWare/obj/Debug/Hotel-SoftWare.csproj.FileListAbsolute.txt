@@ -8,3 +8,16 @@ D:\Ki2_Năm3\Db-Practice\Hotel-SoftWare\Hotel-SoftWare\obj\Debug\Hotel-SoftWare.
 D:\Ki2_Năm3\Db-Practice\Hotel-SoftWare\Hotel-SoftWare\obj\Debug\Hotel-SoftWare.pdb
 D:\Ki2_Năm3\Db-Practice\Hotel-SoftWare\Hotel-SoftWare\obj\Debug\Hotel_SoftWare.ChangePassForm.resources
 D:\Ki2_Năm3\Db-Practice\Hotel-SoftWare\Hotel-SoftWare\obj\Debug\Hotel_SoftWare.RoomStatusForm.resources
+C:\Users\FPTSHOP\Documents\Visual Studio 2019\UI_26\Hotel-SoftWare\bin\Debug\Hotel-SoftWare.exe.config
+C:\Users\FPTSHOP\Documents\Visual Studio 2019\UI_26\Hotel-SoftWare\bin\Debug\Hotel-SoftWare.exe
+C:\Users\FPTSHOP\Documents\Visual Studio 2019\UI_26\Hotel-SoftWare\bin\Debug\Hotel-SoftWare.pdb
+C:\Users\FPTSHOP\Documents\Visual Studio 2019\UI_26\Hotel-SoftWare\obj\Debug\Hotel-SoftWare.csprojAssemblyReference.cache
+C:\Users\FPTSHOP\Documents\Visual Studio 2019\UI_26\Hotel-SoftWare\obj\Debug\Hotel_SoftWare.ChangePassForm.resources
+C:\Users\FPTSHOP\Documents\Visual Studio 2019\UI_26\Hotel-SoftWare\obj\Debug\Hotel_SoftWare.FormManagement.resources
+C:\Users\FPTSHOP\Documents\Visual Studio 2019\UI_26\Hotel-SoftWare\obj\Debug\Hotel_SoftWare.Properties.Resources.resources
+C:\Users\FPTSHOP\Documents\Visual Studio 2019\UI_26\Hotel-SoftWare\obj\Debug\Hotel_SoftWare.QLDichVuForm.resources
+C:\Users\FPTSHOP\Documents\Visual Studio 2019\UI_26\Hotel-SoftWare\obj\Debug\Hotel_SoftWare.RoomStatusForm.resources
+C:\Users\FPTSHOP\Documents\Visual Studio 2019\UI_26\Hotel-SoftWare\obj\Debug\Hotel-SoftWare.csproj.GenerateResource.cache
+C:\Users\FPTSHOP\Documents\Visual Studio 2019\UI_26\Hotel-SoftWare\obj\Debug\Hotel-SoftWare.csproj.CoreCompileInputs.cache
+C:\Users\FPTSHOP\Documents\Visual Studio 2019\UI_26\Hotel-SoftWare\obj\Debug\Hotel-SoftWare.exe
+C:\Users\FPTSHOP\Documents\Visual Studio 2019\UI_26\Hotel-SoftWare\obj\Debug\Hotel-SoftWare.pdb

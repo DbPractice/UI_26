@@ -128,6 +128,7 @@ namespace Hotel_SoftWare
 
         private void btnDichVu_Click(object sender, EventArgs e)
         {
+            openChildForm(new QLDichVuForm());
             HideMenu();
         }
         #endregion
