@@ -1,0 +1,10 @@
+D:\Ki2_Năm3\Db-Practice\Hotel-SoftWare\Hotel-SoftWare\bin\Debug\Hotel-SoftWare.exe.config
+D:\Ki2_Năm3\Db-Practice\Hotel-SoftWare\Hotel-SoftWare\bin\Debug\Hotel-SoftWare.exe
+D:\Ki2_Năm3\Db-Practice\Hotel-SoftWare\Hotel-SoftWare\bin\Debug\Hotel-SoftWare.pdb
+D:\Ki2_Năm3\Db-Practice\Hotel-SoftWare\Hotel-SoftWare\obj\Debug\Hotel_SoftWare.FormManagement.resources
+D:\Ki2_Năm3\Db-Practice\Hotel-SoftWare\Hotel-SoftWare\obj\Debug\Hotel_SoftWare.Properties.Resources.resources
+D:\Ki2_Năm3\Db-Practice\Hotel-SoftWare\Hotel-SoftWare\obj\Debug\Hotel-SoftWare.csproj.GenerateResource.Cache
+D:\Ki2_Năm3\Db-Practice\Hotel-SoftWare\Hotel-SoftWare\obj\Debug\Hotel-SoftWare.exe
+D:\Ki2_Năm3\Db-Practice\Hotel-SoftWare\Hotel-SoftWare\obj\Debug\Hotel-SoftWare.pdb
+D:\Ki2_Năm3\Db-Practice\Hotel-SoftWare\Hotel-SoftWare\obj\Debug\Hotel_SoftWare.ChangePassForm.resources
+D:\Ki2_Năm3\Db-Practice\Hotel-SoftWare\Hotel-SoftWare\obj\Debug\Hotel_SoftWare.RoomStatusForm.resources
